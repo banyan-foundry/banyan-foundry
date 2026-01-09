@@ -19,7 +19,7 @@ The labels are defined in `.github/labels.yml`. This file contains all the label
 5. Enter the following details:
    - **Name**: `Pages`
    - **Description**: `Related to GitHub Pages deployment and website functionality`
-   - **Color**: `#0075ca` (blue)
+   - **Color**: `0075ca` (blue) - Note: GitHub UI may display this with a # prefix
 6. Click "Create label"
 
 ### Option 2: Using GitHub CLI
